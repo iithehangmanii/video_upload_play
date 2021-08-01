@@ -1,7 +1,7 @@
 flask
 gunicorn
 werkzeug
-torch
+torch==1.8.0+cpu
 numpy
 opencv-python
 face_alignment
